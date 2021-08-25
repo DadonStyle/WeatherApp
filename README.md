@@ -4,5 +4,8 @@
 The app fetch data from https://openweathermap.org/ api
 
 ##`tecnologies`
-React.ts, Axios, Notyf
+React.ts
+
+##`libraries`
+Axios, Notyf
 
