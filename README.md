@@ -1,8 +1,8 @@
 # GlobalWheatherApp
 
 ##`So how it works?`
-The user type the name of the city he would like to check,
-and the app fetch data from https://openweathermap.org/ api, and display it on the screen
+The user types the name of the city that he would like to check the temperature in,
+and the app will fetch the data from https://openweathermap.org/ api, and display it on the screen.
 
 ##`tecnologies`
 React.ts
